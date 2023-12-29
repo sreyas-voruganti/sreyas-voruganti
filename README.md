@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a self-taught full stack developer and high school student.
 
 ![](https://komarev.com/ghpvc/?username=sreyas-voruganti)
 
